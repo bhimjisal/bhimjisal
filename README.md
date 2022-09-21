@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhimjisal
-- 👀 I’m interested in ... creating helpful programs to make my life just a bit easier
-- 🌱 I’m currently learning ... R, Python, and MATLAB
+- 👀 I’m interested in ... breaking into tech as an engineering student at Penn State
+- 🌱 I’m currently learning ... Python, Html, & CSS
 - 💞️ I’m looking to collaborate on ... any sort of web automation projects
 - 📫 How to reach me ... send an email on over to bhimjisal@gmail.com
 
